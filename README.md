@@ -3,7 +3,7 @@ An Arduino-based project designed using **Tinkercad Circuits** to control and sy
 
 ---
 
-### Features
+## Features
 * **Synchronized Motion:** Smoothly sweeps all 4 servo motors together from **0° to 180°** and back to **0°**.
 * **Auto-Centering:** Sets all motors to their default neutral position (**90°**) upon initialization.
 * **Efficient Code Structure:** Utilizes arrays and loop iterations for scalable code.
@@ -31,10 +31,10 @@ An Arduino-based project designed using **Tinkercad Circuits** to control and sy
   * All Servo `GND` (Black Wires) $\rightarrow$ Breadboard Negative (-) Rail
 
 * **Signal Connections:**
-  * Servo 1 Signal (Yellow Wire) $\rightarrow$ Arduino Pin `9`
+  * Servo 1 Signal (Orange Wire) $\rightarrow$ Arduino Pin `9`
   * Servo 2 Signal (Yellow Wire) $\rightarrow$ Arduino Pin `10`
-  * Servo 3 Signal (Yellow Wire) $\rightarrow$ Arduino Pin `11`
-  * Servo 4 Signal (Yellow Wire) $\rightarrow$ Arduino Pin `12`
+  * Servo 3 Signal (green Wire) $\rightarrow$ Arduino Pin `11`
+  * Servo 4 Signal (Turquoise Wire) $\rightarrow$ Arduino Pin `12`
 
 
 <img width="1243" height="743" alt="Screenshot 2026-07-20 195025" src="https://github.com/user-attachments/assets/67fbe043-62d1-4ae3-846b-e8b3c96a60a2" />
