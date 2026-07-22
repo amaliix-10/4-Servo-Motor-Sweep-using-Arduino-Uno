@@ -78,5 +78,6 @@ void setup() {
     servos[i].write(90);
   }
 }
+```
+## [watch video](https://drive.google.com/file/d/1HaDu2ApBkuxWnW32JZnTHpwRk-GZMx2z/view?usp=drive_link)
 
-## [watch vedio](https://drive.google.com/file/d/1HaDu2ApBkuxWnW32JZnTHpwRk-GZMx2z/view?usp=drive_link)
