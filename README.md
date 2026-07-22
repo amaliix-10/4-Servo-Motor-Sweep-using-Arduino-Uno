@@ -25,7 +25,7 @@ This project showcases how to handle array indexing and synchronized movement fo
 
 ---
 
-## ⚡ Circuit Schematic & Wiring
+## Circuit Schematic & Wiring
 
 ### Pin Configuration
 * **Power Connections:**
@@ -79,6 +79,5 @@ void setup() {
   }
 }
 
-void loop() {
-  // Idle loop after initial setup completion
-}
+
+https://drive.google.com/file/d/1HaDu2ApBkuxWnW32JZnTHpwRk-GZMx2z/view?usp=drive_link
