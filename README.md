@@ -7,7 +7,7 @@ An Arduino-based project designed using **Tinkercad Circuits** to control and sy
 
 This project showcases how to handle array indexing and synchronized movement for multiple servo motors using the official Arduino standard `<Servo.h>` library. 
 
-### Key Features
+### Features
 * **Synchronized Motion:** Smoothly sweeps all 4 servo motors together from **0° to 180°** and back to **0°**.
 * **Auto-Centering:** Sets all motors to their default neutral position (**90°**) upon initialization.
 * **Efficient Code Structure:** Utilizes arrays and loop iterations for scalable code.
@@ -40,7 +40,9 @@ This project showcases how to handle array indexing and synchronized movement fo
   * Servo 3 Signal (Yellow Wire) $\rightarrow$ Arduino Pin `11`
   * Servo 4 Signal (Yellow Wire) $\rightarrow$ Arduino Pin `12`
 
-> **Note:** When using multiple physical servos on actual hardware, it is recommended to use an external 5V power source to prevent drawing excessive current from the Arduino 5V pin.
+
+<img width="1243" height="743" alt="Screenshot 2026-07-20 195025" src="https://github.com/user-attachments/assets/67fbe043-62d1-4ae3-846b-e8b3c96a60a2" />
+
 
 ---
 
@@ -79,5 +81,6 @@ void setup() {
   }
 }
 ```
-## [watch video](https://drive.google.com/file/d/1HaDu2ApBkuxWnW32JZnTHpwRk-GZMx2z/view?usp=drive_link)
+## The Result 
+[watch video](https://drive.google.com/file/d/1HaDu2ApBkuxWnW32JZnTHpwRk-GZMx2z/view?usp=drive_link)
 
